@@ -1,23 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T03:18:24.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="A7Aa6FEF4yPLIqX81SCV" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T01:23:46.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="2W_V-MgPdJqBZKT0od5E" version="16.6.5" type="github">
   <diagram id="TSvHupmV6pkLSiCcQYH6" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2_yFW19Lb9jpXho9O63r-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office_Mesa_de_trabajo_1-128.png" vertex="1" parent="1">
-          <mxGeometry x="569" y="186" width="105" height="105" as="geometry" />
+        <mxCell id="Anw84FwX8oitWRvklSUG-2" value="保存加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="2_yFW19Lb9jpXho9O63r-3" target="Anw84FwX8oitWRvklSUG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="298" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2_yFW19Lb9jpXho9O63r-4" value="导出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2_yFW19Lb9jpXho9O63r-3" target="2_yFW19Lb9jpXho9O63r-2">
+        <mxCell id="2_yFW19Lb9jpXho9O63r-3" value="ATS Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="565" y="236.5" width="110" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-12" value="ZIP 压缩包形式" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="183" y="155" width="250" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-128.png" vertex="1" parent="Anw84FwX8oitWRvklSUG-12">
+          <mxGeometry x="139" y="94.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Anw84FwX8oitWRvklSUG-12" source="Anw84FwX8oitWRvklSUG-4" target="Anw84FwX8oitWRvklSUG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_yFW19Lb9jpXho9O63r-12" value="保存/加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="2_yFW19Lb9jpXho9O63r-3" target="2_yFW19Lb9jpXho9O63r-11">
+        <mxCell id="Anw84FwX8oitWRvklSUG-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-csv-format-type-128.png" vertex="1" parent="Anw84FwX8oitWRvklSUG-12">
+          <mxGeometry x="9" y="35" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Anw84FwX8oitWRvklSUG-12" source="Anw84FwX8oitWRvklSUG-5" target="Anw84FwX8oitWRvklSUG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2_yFW19Lb9jpXho9O63r-3" value="ATS Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="189.5" width="110" height="101" as="geometry" />
+        <mxCell id="Anw84FwX8oitWRvklSUG-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-csv-format-type-128.png" vertex="1" parent="Anw84FwX8oitWRvklSUG-12">
+          <mxGeometry x="9" y="109.5" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="2_yFW19Lb9jpXho9O63r-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
-          <mxGeometry x="125" y="191.5" width="90" height="97" as="geometry" />
+        <mxCell id="Anw84FwX8oitWRvklSUG-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-csv-format-type-128.png" vertex="1" parent="Anw84FwX8oitWRvklSUG-12">
+          <mxGeometry x="9" y="185" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Anw84FwX8oitWRvklSUG-12" source="Anw84FwX8oitWRvklSUG-6" target="Anw84FwX8oitWRvklSUG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-16" value="导出" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Anw84FwX8oitWRvklSUG-17" target="Anw84FwX8oitWRvklSUG-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="583" y="504.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-17" value="ATS Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="456" width="100" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-18" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
+          <mxGeometry x="182" y="452.75" width="96" height="93.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-128.png" vertex="1" parent="1">
+          <mxGeometry x="578" y="450" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Anw84FwX8oitWRvklSUG-20" value="保存加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="Anw84FwX8oitWRvklSUG-17" target="Anw84FwX8oitWRvklSUG-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="492.5" as="sourcePoint" />
+            <mxPoint x="270" y="492" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
