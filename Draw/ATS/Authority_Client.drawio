@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:31:06.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="BkeMBIBpAk5I2wwgf-Wc" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:33:18.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="Xaaho3wMocQ1CWQIS24v" version="17.1.3" type="github">
   <diagram id="XbOKaqfH4eZdRzvgGnbF" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-10" value="ATS Server" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="275" width="200" height="255" as="geometry">
+          <mxGeometry x="40" y="235" width="200" height="255" as="geometry">
             <mxRectangle x="340" y="130" width="30" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -25,7 +25,7 @@
           <mxGeometry x="76.5" y="192" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-14" value="AMS" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="459" y="60" width="161" height="470" as="geometry" />
+          <mxGeometry x="369" y="20" width="161" height="470" as="geometry" />
         </mxCell>
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-39" value="处理校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rXvFDF5TVlSO3VW0NlAG-14">
           <mxGeometry x="39" y="312" width="93" height="50" as="geometry" />
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-50" value="ATS Client" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="200" height="170" as="geometry" />
+          <mxGeometry x="40" y="20" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-51" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rXvFDF5TVlSO3VW0NlAG-50">
           <mxGeometry x="76.5" y="33" width="86" height="50" as="geometry" />
@@ -70,8 +70,8 @@
         <mxCell id="rXvFDF5TVlSO3VW0NlAG-63" value="&amp;nbsp;失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="rXvFDF5TVlSO3VW0NlAG-36" target="rXvFDF5TVlSO3VW0NlAG-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="397" />
-              <mxPoint x="180" y="191" />
+              <mxPoint x="90" y="357" />
+              <mxPoint x="90" y="151" />
             </Array>
           </mxGeometry>
         </mxCell>
