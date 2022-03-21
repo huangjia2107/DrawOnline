@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T02:05:16.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="HXtIVqKz5ozPaOiXeibh" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T05:30:45.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="1-xQ4T_db82v2KvL65OR" version="17.1.3" type="github">
   <diagram id="6HJbX8xjSHiphjpHN3d-" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1ClQActKmiOmDfNbaTkT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1ClQActKmiOmDfNbaTkT-2" target="1ClQActKmiOmDfNbaTkT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClQActKmiOmDfNbaTkT-2" value="创建实验" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1ClQActKmiOmDfNbaTkT-2" value="创建测试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="464" y="60" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1ClQActKmiOmDfNbaTkT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1ClQActKmiOmDfNbaTkT-3" target="1ClQActKmiOmDfNbaTkT-5" edge="1">
@@ -49,29 +49,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ClQActKmiOmDfNbaTkT-16" value="&lt;span&gt;定制化&lt;/span&gt;&lt;br&gt;&lt;span&gt;脚本或插件&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="433" width="110" height="70" as="geometry" />
+          <mxGeometry x="127" y="433" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K9WD7_3GSTwuTdgd7abr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="1ClQActKmiOmDfNbaTkT-20" target="1ClQActKmiOmDfNbaTkT-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="109" />
-              <mxPoint x="370" y="167" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Mm4i9tupRKRqrrhl5522-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ClQActKmiOmDfNbaTkT-20" target="1ClQActKmiOmDfNbaTkT-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClQActKmiOmDfNbaTkT-20" value="服务器上的&lt;br&gt;指令链" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1ClQActKmiOmDfNbaTkT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="1ClQActKmiOmDfNbaTkT-22" target="1ClQActKmiOmDfNbaTkT-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="370" y="227" />
-              <mxPoint x="370" y="167" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1ClQActKmiOmDfNbaTkT-22" value="本地生成的&lt;br&gt;指令链" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="192" width="100" height="70" as="geometry" />
+        <mxCell id="1ClQActKmiOmDfNbaTkT-20" value="服务器上的&lt;br&gt;发布版指令链" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="245" y="127" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
